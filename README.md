@@ -12,5 +12,5 @@
     - I missed the part that said i should fork the repository and i only came to realize it when it was mentioned during class.
 
 ## Completed:
-    - Mandatory task under 1 - 6 is worth 4 points on Teusday, 11 March 2025
+    - Mandatory task under 1 - 6 worth 4 points on Teusday, 11 March 2025
 
